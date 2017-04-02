@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FrankFacebook</string>
+    <string name="facebook_app_id">135242060342099</string>
+    <string name="default_read_permissions">public_profile,user_friends,email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="taggable_friends">taggable_friends</string>
+    <string name="fields">fields</string>
+    <string name="name">name</string>
+    <string name="picture">picture</string>
+    <string name="data">data</string>
+    <string name="url">url</string>
+    <string name="login_message">Please Login First</string>
+    <string name="me">me</string>
+</resources>
